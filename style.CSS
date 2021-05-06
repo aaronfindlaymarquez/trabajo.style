@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>madrid censo migracion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="aaronfinmarquez@gmail.com" method="POST">
+ <img src="https://img.blogs.es/smartcitylab/wp-content/uploads/2019/07/madrid-central-espana-1920x960.jpg" height="250" width="1350"/>
+ <h1 >censo nacional de migrantes en madrid </h1>
+ <label for="nombre y apellido"><h4>in troduce tu nombre y apellido</h4></label>
+ <input type="text" placeholder="nombre" maxlength="10" name="nombre" id="nombre y apellido"/>
+ <input type="text" placeholder="apellido" maxlength="10" name="nombre" id="nombre y apellido"/><input type="button" value="guardar">
+ <br><br>
+ <label for="nie"><h4>introdce tu NIE</h4></label>
+ <input type="num" placeholder="NIE" maxlength="9" name="num" id="nie"> <input type="button" value="guardar">
+<label for="direccion"><h4>Introduce tu Direccion</h4></label>
+<input type="text" placeholder="calle o carretera" maxlength="20" name="" id="direccion"> <select name="" id="">
+    <option value="selecioone ciudadela">selecione ciudadela</option>
+    <option value="alcobendas">Alcobendas</option>
+    <option value="Sol">Sol</option>
+    <option value="Coslada">Coslada</option>
+    <option value="Nuevos Ministerios">Nuevos Ministerios</option>
+    <option value="Chamartin">Chamartin</option>
+    <option value="Torrejon de Ardoz">Torrejon de Ardoz</option>
+    <option value="Usera">Usera</option>
+    <option value="Arganda del rey">Arganda del rey</option>
+
+
+</select>
+ <h2>un poco de la historia de los migrantes</h2>
+ <p>
+    <I>España cuenta con una historia de migrantes , primero los españoles fuimos emigrantes y actualmente somos una nación destino de inmigrantes.
+
+    Durante el siglo XIX, los españoles emigrábamos rumbo a las “Américas” ya que el gobierno español a partir de 1853 fomentaba a estos migrantes, al tratarse de una forma de mantener el control de las colonias, gracias a la población española emigrada.
+    
+    En el siglo XX, América dejó de ser el destino elegido. A principios de los años 50 los emigrantes españoles (un 70%) preferían los países industrializados de Europa (Francia, Alemania, Suiza, Bélgica y Reino Unido). Al mismo tiempo comenzaba el éxodo rural, la masiva salida de población que se trasladaba  del campo hacia la industria de la ciudad.
+</I>
+</p>
+</form>
+</body>
+</html>
